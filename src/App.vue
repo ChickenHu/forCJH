@@ -161,27 +161,7 @@ onMounted(() => {
       </button>
     </div>
     <div w-full color="#000" fw-600 text-center pb-10px>
-      <span mr-20px>designer: Teacher Face</span>
-      by: Xc
-      <a
-        class="icon-btn"
-        color="#000"
-        i-carbon-logo-github
-        rel="noreferrer"
-        href="https://github.com/chenxch"
-        target="_blank"
-        title="GitHub"
-      />
-      <span
-        text-12px
-        color="#00000018"
-      >
-        <span
-          class="icon-btn"
-          text-2
-          i-carbon:arrow-up-left
-        />
-        star buff</span>
+      <span mr-20px>designer: Teacher Face fork :ChickieHu</span>
     </div>
     <audio
       ref="clickAudioRef"

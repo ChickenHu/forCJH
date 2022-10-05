@@ -105,7 +105,7 @@ onMounted(() => {
 <template>
   <div flex flex-col w-full h-full>
     <div text-44px text-center w-full color="#000" fw-600 h-60px flex items-center justify-center mt-10px>
-      兔了个兔
+      野了个野
     </div>
     <div ref="containerRef" flex-1 flex>
       <div w-full relative flex-1>
@@ -121,7 +121,7 @@ onMounted(() => {
       </div>
       <transition name="bounce">
         <div v-if="isWin" color="#000" flex items-center justify-center w-full text-28px fw-bold>
-          成功加入兔圈~
+          成功加入野圈~
         </div>
       </transition>
       <transition name="bounce">

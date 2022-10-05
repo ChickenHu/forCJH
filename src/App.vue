@@ -161,7 +161,7 @@ onMounted(() => {
       </button>
     </div>
     <div w-full color="#000" fw-600 text-center pb-10px>
-      <span mr-20px>designer: Teacher Face fork :ChickieHu</span>
+      <span mr-20px>designer: Teacher Face|fork: ChickieHu</span>
     </div>
     <audio
       ref="clickAudioRef"
